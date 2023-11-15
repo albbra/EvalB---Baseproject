@@ -1,0 +1,3 @@
+"HTC Vive Controller" (https://skfb.ly/6vYMA) by iShoNz is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Prefabs from https://learn.unity.com/tutorial/vr-project-setup?pathwayId=627c12d8edbc2a75333b9185&missionId=62554983edbc2a76a27486cb
