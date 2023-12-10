@@ -14,15 +14,7 @@ public class Timer : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("MainCamera")) // Adjust the tag accordingly
-        {
-            StartTimer();
-        }
-    }
-
-    private void StartTimer()
+    public void StartTimer()
     {
         timerRunning = true;
     }
